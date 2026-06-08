@@ -34,10 +34,6 @@ The plugin includes multiple search layouts for Elementor pages, including Class
 
 After activation, open any Elementor page and add the Search widget. Choose the layout, search source, placeholder text, button type, and styling options from the widget controls.
 
-## Screenshots
-
-Add real screenshots before promoting this repository:
-
 1. Widget inside Elementor editor
 2. Classic search layout on the frontend
 3. Full Screen search layout
